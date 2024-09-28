@@ -1,4 +1,4 @@
-## NAME : DINESH KUMAR R
+![Screenshot 2024-09-28 142041](https://github.com/user-attachments/assets/d0560d69-9cb3-4f56-b9fa-ddcf11428175)## NAME : DINESH KUMAR R
 ## REGISTER NO : 212222110010
 # EX 02 : Control of Relay Using IoT controller
 
@@ -59,9 +59,10 @@ delay(1000);
 
 ## OUTPUT:
 ## ON 
-![EX2_on](https://github.com/user-attachments/assets/0c7a1d54-bcd1-4c76-b084-1e239ce1efea)
+![Screenshot 2024-09-28 142020](https://github.com/user-attachments/assets/bc2da59b-6f2c-4a97-9a5c-64a636a2acc0)
+
 ## OFF
-![EX2-off](https://github.com/user-attachments/assets/a2cb4b1e-3635-4352-917d-b00df80c324e)
+![Screenshot 2024-09-28 142041](https://github.com/user-attachments/assets/50685359-17c9-4eaa-99ee-78a1cce52005)
 
 ## RESULT:
 
