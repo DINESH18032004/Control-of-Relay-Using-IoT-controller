@@ -1,4 +1,4 @@
-![Screenshot 2024-09-28 142041](https://github.com/user-attachments/assets/d0560d69-9cb3-4f56-b9fa-ddcf11428175)## NAME : DINESH KUMAR R
+## NAME : DINESH KUMAR R
 ## REGISTER NO : 212222110010
 # EX 02 : Control of Relay Using IoT controller
 
